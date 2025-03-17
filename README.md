@@ -1,5 +1,8 @@
-```md
 <h1 align="left">Hey, I'm Nicolas Valerino 👋</h1>
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFD700&vCenter=true&width=450&height=50&lines=Developer+%7C+Tech+Enthusiast;Passionate+about+code;Let's+build+awesome+stuff!" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -15,7 +18,7 @@
 
 ## 🛠️ Tech Stack
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
@@ -27,7 +30,7 @@
 
 ## 📊 GitHub Stats
 
-<p>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nicovlr&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
@@ -35,7 +38,7 @@
 
 ## 🌎 Where to Find Me
 
-<p>
+<p align="left">
   <a href="https://tonportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-%23171717.svg?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
@@ -47,4 +50,3 @@
 ---
 
 ✨ _"Code, Create, Innovate!"_ ✨
-```
