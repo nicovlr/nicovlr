@@ -1,3 +1,4 @@
+```md
 <h1 align="left">Hey, I'm Nicolas Valerino 👋</h1>
 
 ---
@@ -24,14 +25,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicovlr&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
 ## 🌎 Where to Find Me
 
 <p align="left">
@@ -46,3 +39,4 @@
 ---
 
 ✨ _"Code, Create, Innovate!"_ ✨
+```
