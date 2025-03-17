@@ -1,4 +1,3 @@
-```md
 <h1 align="left">Hey, I'm Nicolas Valerino 👋</h1>
 
 ---
@@ -39,4 +38,3 @@
 ---
 
 ✨ _"Code, Create, Innovate!"_ ✨
-```
