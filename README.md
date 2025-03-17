@@ -1,8 +1,7 @@
+```md
 <h1 align="left">Hey, I'm Nicolas Valerino 👋</h1>
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFD700&vCenter=true&width=450&height=50&lines=Developer+%7C+Tech+Enthusiast;Passionate+about+code;Let's+build+awesome+stuff!" alt="Typing SVG" />
-</p>
+
 
 ---
 
@@ -50,3 +49,4 @@
 ---
 
 ✨ _"Code, Create, Innovate!"_ ✨
+```
