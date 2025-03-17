@@ -1,8 +1,4 @@
-<h1 align="center">Hey, I'm [Ton Nom] 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=450&height=50&lines=Developer+%7C+Tech+Enthusiast;Passionate+about+code;Let's+build+awesome+stuff!" alt="Typing SVG" />
-</p>
+<h1 align="center">Hey, I'm Nicolas Valerino 👋</h1>
 
 ---
 
@@ -28,8 +24,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonPseudo&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nicovlr&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicovlr&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -37,8 +33,7 @@
 ### 🌎 Where to Find Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23171717.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://tonportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tonlinkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tontwitter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nico-vlr123/)
 
 ---
 
