@@ -27,7 +27,7 @@
 ## 🌎 Where to Find Me
 
 <p align="left">
-  <a href="http://portfoliov2-7bvi-1fiw007li-nicovlrs-projects.vercel.app">
+  <a href="https://portfoliov2-7bvi.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-%23171717.svg?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/nico-vlr123/">
