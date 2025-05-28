@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Future student at **Epitech**  
+- 🎓 Future student at **Supinfo**  
 - 💡 Working on **Next.js, Supabase, React Native, Swift**  
 - 🚀 Passionate about **Tech, AI, and Game Development**  
 - 🎮 Currently building **Space Galaxy (JS) & Kahoot-like app**  
