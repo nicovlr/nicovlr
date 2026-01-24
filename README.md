@@ -1,41 +1,16 @@
-<h1 align="left">Hey, I'm Nicolas Valerino 👋</h1>
+## Nicolas Valerino
+
+[LinkedIn](https://www.linkedin.com/in/nico-vlr123/) · [Portfolio](http://portfoliov2-7bvi-1fiw007li-nicovlrs-projects.vercel.app)
 
 ---
 
-## 🚀 About Me
+### Projets
 
-- 🎓 Future student at **Supinfo**  
-- 💡 Working on **Next.js, Supabase, React Native, Swift**  
-- 🚀 Passionate about **Tech, AI, and Game Development**  
-- 🎮 Currently building **Space Galaxy (JS) & Kahoot-like app**  
-- 🔥 Always learning & experimenting!  
+<!-- PROJECTS:START -->
+<!-- PROJECTS:END -->
 
 ---
 
-## 🛠️ Tech Stack
+### Langages
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
----
-
-## 🌎 Where to Find Me
-
-<p align="left">
-  <a href="http://portfoliov2-7bvi-1fiw007li-nicovlrs-projects.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-%23171717.svg?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nico-vlr123/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-✨ _"Code, Create, Innovate!"_ ✨
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicovlr&layout=compact&hide_border=true&bg_color=00000000&text_color=777&hide=html,css" />
