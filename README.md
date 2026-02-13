@@ -78,4 +78,4 @@
 
 ### Langages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicovlr&layout=compact&hide_border=true&bg_color=00000000&text_color=777&hide=html,css" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicovlr&theme=transparent" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nicovlr&theme=transparent" />
