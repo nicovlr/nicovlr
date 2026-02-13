@@ -1,14 +1,30 @@
-<svg width="600" height="8" viewBox="0 0 600 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="600" height="28" viewBox="0 0 600 28" fill="none" xmlns="http://www.w3.org/2000/svg">
   <mask id="m">
     <rect width="600" height="8" rx="4" fill="white"/>
   </mask>
   <g mask="url(#m)">
-    <rect x="0" width="278" height="8" fill="#F05138"><title>Swift 46.4%</title></rect>
-    <rect x="278" width="246" height="8" fill="#3178C6"><title>TypeScript 40.9%</title></rect>
-    <rect x="524" width="37" height="8" fill="#FFD43B"><title>Python 6.2%</title></rect>
-    <rect x="561" width="35" height="8" fill="#F1E05A"><title>JavaScript 5.8%</title></rect>
-    <rect x="596" width="2" height="8" fill="#F34B7D"><title>C++ 0.4%</title></rect>
-    <rect x="598" width="1" height="8" fill="#512BD4"><title>C# 0.2%</title></rect>
-    <rect x="599" width="1" height="8" fill="#4F5D95"><title>PHP 0.1%</title></rect>
+    <rect x="0" width="278" height="8" fill="#F05138"/>
+    <rect x="278" width="246" height="8" fill="#3178C6"/>
+    <rect x="524" width="37" height="8" fill="#FFD43B"/>
+    <rect x="561" width="35" height="8" fill="#F1E05A"/>
+    <rect x="596" width="2" height="8" fill="#F34B7D"/>
+    <rect x="598" width="1" height="8" fill="#512BD4"/>
+    <rect x="599" width="1" height="8" fill="#4F5D95"/>
+  </g>
+  <g transform="translate(0, 22)">
+    <circle cx="3" cy="0" r="3" fill="#F05138"/>
+    <text x="9" y="3" font-size="9" fill="#888">Swift 46.4%</text>
+    <circle cx="80" cy="0" r="3" fill="#3178C6"/>
+    <text x="86" y="3" font-size="9" fill="#888">TypeScript 40.9%</text>
+    <circle cx="180" cy="0" r="3" fill="#FFD43B"/>
+    <text x="186" y="3" font-size="9" fill="#888">Python 6.2%</text>
+    <circle cx="248" cy="0" r="3" fill="#F1E05A"/>
+    <text x="254" y="3" font-size="9" fill="#888">JavaScript 5.8%</text>
+    <circle cx="338" cy="0" r="3" fill="#F34B7D"/>
+    <text x="344" y="3" font-size="9" fill="#888">C++ 0.4%</text>
+    <circle cx="393" cy="0" r="3" fill="#512BD4"/>
+    <text x="399" y="3" font-size="9" fill="#888">C# 0.2%</text>
+    <circle cx="440" cy="0" r="3" fill="#4F5D95"/>
+    <text x="446" y="3" font-size="9" fill="#888">PHP 0.1%</text>
   </g>
 </svg>

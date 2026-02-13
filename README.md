@@ -97,5 +97,3 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 <img src="./langs.svg" />
-
-🟠 Swift 46.4% &nbsp; 🔵 TypeScript 40.9% &nbsp; 🟡 Python 6.2% &nbsp; 🟡 JavaScript 5.8% &nbsp; 🔴 C++ 0.4% &nbsp; 🟣 C# 0.2% &nbsp; 🔵 PHP 0.1%
