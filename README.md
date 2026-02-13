@@ -9,14 +9,12 @@
 <!-- PROJECTS:START -->
 | Projet | Description | Stack |
 |:-------|:------------|:------|
-| [repotalk](https://github.com/nicovlr/repotalk) | Talk to any codebase with AI voice — Mistral + ElevenLabs | `Python` · `HTML` |
-| [rag-chatbot-pdf](https://github.com/nicovlr/rag-chatbot-pdf) | RAG Chatbot pour interroger des documents PDF avec Ollama et ChromaDB | `Python` |
-| [TradeSim](https://github.com/nicovlr/TradeSim) | Simulateur de trading en temps réel — Python, Streamlit, Yahoo Finance | `Python` |
-| [devtask-manager](https://github.com/nicovlr/devtask-manager) | App de gestion de tâches pour équipes de dev avec API REST et admin Django | `Python` |
-| [e-commerce](https://github.com/nicovlr/e-commerce) | — | `TypeScript` · `Python` · `SCSS` |
-| [casierstaspais](https://github.com/nicovlr/casierstaspais) | — | `TypeScript` |
-| [portfoliov2](https://github.com/nicovlr/portfoliov2) | — | `TypeScript` |
+| [repotalk](https://github.com/nicovlr/repotalk) | 🎙️ Talk to any codebase with AI voice — Mistral + ... | `HTML` · `Python` |
+| [rag-chatbot-pdf](https://github.com/nicovlr/rag-chatbot-pdf) | RAG Chatbot pour interroger des documents PDF avec... | `Python` |
 | [cookingvitrine](https://github.com/nicovlr/cookingvitrine) | — | `HTML` · `JavaScript` · `CSS` |
+| [e-commerce](https://github.com/nicovlr/e-commerce) | — | `TypeScript` · `Python` · `HTML` |
+| [TradeSim](https://github.com/nicovlr/TradeSim) | un simulateur de trading en temps réel utilisant P... | `Python` |
+| [devtask-manager](https://github.com/nicovlr/devtask-manager) | Application de gestion de tâches pour équipes de d... | `Python` |
 <!-- PROJECTS:END -->
 
 ---
