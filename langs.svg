@@ -1,0 +1,14 @@
+<svg width="600" height="8" viewBox="0 0 600 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <mask id="m">
+    <rect width="600" height="8" rx="4" fill="white"/>
+  </mask>
+  <g mask="url(#m)">
+    <rect x="0" width="278" height="8" fill="#F05138"><title>Swift 46.4%</title></rect>
+    <rect x="278" width="246" height="8" fill="#3178C6"><title>TypeScript 40.9%</title></rect>
+    <rect x="524" width="37" height="8" fill="#FFD43B"><title>Python 6.2%</title></rect>
+    <rect x="561" width="35" height="8" fill="#F1E05A"><title>JavaScript 5.8%</title></rect>
+    <rect x="596" width="2" height="8" fill="#F34B7D"><title>C++ 0.4%</title></rect>
+    <rect x="598" width="1" height="8" fill="#512BD4"><title>C# 0.2%</title></rect>
+    <rect x="599" width="1" height="8" fill="#4F5D95"><title>PHP 0.1%</title></rect>
+  </g>
+</svg>

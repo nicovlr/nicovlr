@@ -96,4 +96,4 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=nicovlr&layout=compact&hide_border=true&bg_color=00000000&text_color=777&hide=html,css" />
+<img src="./langs.svg" />
