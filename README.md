@@ -9,12 +9,12 @@
 <!-- PROJECTS:START -->
 | Projet | Description | Stack |
 |:-------|:------------|:------|
+| [cv](https://github.com/nicovlr/cv) | CV Nicolas Valerino | — |
 | [repotalk](https://github.com/nicovlr/repotalk) | 🎙️ Talk to any codebase with AI voice — Mistral + ... | `HTML` · `Python` |
 | [rag-chatbot-pdf](https://github.com/nicovlr/rag-chatbot-pdf) | RAG Chatbot pour interroger des documents PDF avec... | `Python` |
 | [cookingvitrine](https://github.com/nicovlr/cookingvitrine) | — | `HTML` · `JavaScript` · `CSS` |
 | [e-commerce](https://github.com/nicovlr/e-commerce) | — | `TypeScript` · `Python` · `HTML` |
 | [TradeSim](https://github.com/nicovlr/TradeSim) | un simulateur de trading en temps réel utilisant P... | `Python` |
-| [devtask-manager](https://github.com/nicovlr/devtask-manager) | Application de gestion de tâches pour équipes de d... | `Python` |
 <!-- PROJECTS:END -->
 
 ---
