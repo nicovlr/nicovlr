@@ -17,12 +17,14 @@ Swift & Spatial Computing Developer | Paris, France
 ### Other Projects
 
 <!-- PROJECTS:START -->
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [repotalk](https://github.com/nicovlr/repotalk) | Talk to any codebase with AI voice — Mistral + ElevenLabs | `Python` · `HTML` |
-| [rag-chatbot-pdf](https://github.com/nicovlr/rag-chatbot-pdf) | RAG Chatbot for querying PDF documents with Ollama and ChromaDB | `Python` |
-| [TradeSim](https://github.com/nicovlr/TradeSim) | Real-time trading simulator with Streamlit and Yahoo Finance | `Python` |
-| [cookingvitrine](https://github.com/nicovlr/cookingvitrine) | Cooking showcase website | `HTML` · `JavaScript` · `CSS` |
+| Projet | Description | Stack |
+|:-------|:------------|:------|
+| [ios-native-apps](https://github.com/nicovlr/ios-native-apps) | Native iOS recipe app — SwiftUI, SwiftData, async/... | `Swift` |
+| [cross-platform-ui-components](https://github.com/nicovlr/cross-platform-ui-components) | Reusable UI components for Apple platforms — Swift... | `C++` · `Swift` · `Objective-C` |
+| [visionos-travel-experience](https://github.com/nicovlr/visionos-travel-experience) | Spatial computing prototype for Apple Vision Pro —... | `Swift` |
+| [cv](https://github.com/nicovlr/cv) | CV Nicolas Valerino | — |
+| [repotalk](https://github.com/nicovlr/repotalk) | 🎙️ Talk to any codebase with AI voice — Mistral + ... | `HTML` · `Python` |
+| [rag-chatbot-pdf](https://github.com/nicovlr/rag-chatbot-pdf) | RAG Chatbot pour interroger des documents PDF avec... | `Python` |
 <!-- PROJECTS:END -->
 
 ---
