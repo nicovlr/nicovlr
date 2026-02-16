@@ -1,6 +1,6 @@
 ## Nicolas Valerino
 
-Swift & Spatial Computing Developer | Paris, France
+Developer | Paris, France
 
 [LinkedIn](https://www.linkedin.com/in/nico-vlr123/)
 
