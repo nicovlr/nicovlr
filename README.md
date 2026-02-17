@@ -20,7 +20,7 @@ Developer | Paris, France
 | Projet | Description | Stack |
 |:-------|:------------|:------|
 | [ios-native-apps](https://github.com/nicovlr/ios-native-apps) | Native iOS recipe app — SwiftUI, SwiftData, async/... | `Swift` |
-| [cross-platform-ui-components](https://github.com/nicovlr/cross-platform-ui-components) | Reusable UI components for Apple platforms — Swift... | `C++` · `Swift` · `Objective-C` |
+| [cross-platform-ui-components](https://github.com/nicovlr/cross-platform-ui-components) | Reusable UI components for Apple platforms — Swift... | `Swift` · `C++` · `Objective-C` |
 | [visionos-travel-experience](https://github.com/nicovlr/visionos-travel-experience) | Spatial computing prototype for Apple Vision Pro —... | `Swift` |
 | [cv](https://github.com/nicovlr/cv) | CV Nicolas Valerino | — |
 | [repotalk](https://github.com/nicovlr/repotalk) | 🎙️ Talk to any codebase with AI voice — Mistral + ... | `HTML` · `Python` |
