@@ -6,18 +6,43 @@ Developer | Paris, France
 
 ---
 
-### Apple Platforms & Spatial Computing
+<details>
+<summary><b>Apple Platforms & Spatial Computing</b></summary>
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
 | [visionos-travel-experience](https://github.com/nicovlr/visionos-travel-experience) | Spatial computing prototype for Apple Vision Pro — immersive 3D globe, spatial gestures, mixed immersion | `Swift` `SwiftUI` `RealityKit` `visionOS` |
 | [cross-platform-ui-components](https://github.com/nicovlr/cross-platform-ui-components) | Reusable UI components across Apple platforms — layout engine, color math, UIKit bridges | `Swift` `Objective-C` `C++` `SwiftUI` `UIKit` |
 | [ios-native-apps](https://github.com/nicovlr/ios-native-apps) | Native iOS recipe app — SwiftData persistence, custom design system, async networking | `Swift` `SwiftUI` `SwiftData` |
+
+</details>
+
+<details>
+<summary><b>Tools & Experiments</b></summary>
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| [coastwatch](https://github.com/nicovlr/coastwatch) | CLI tool to monitor beach conditions and surf reports | `Python` |
+| [vibe-brainrot](https://github.com/nicovlr/vibe-brainrot) | Fork of Mistral Vibe with a dino runner game — playable AI experiment | `Python` `Nix` `Shell` |
+| [cv](https://github.com/nicovlr/cv) | Personal CV / portfolio | — |
+
+</details>
+
+---
+
+<details>
+<summary><b>Private Projects — Apple Platforms</b></summary>
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
 | ConnectedMate | Native iOS app | `Swift` |
 | LeClub / LeClub2 | Native iOS apps | `Swift` |
 | TalkApp | Native iOS app | `Swift` |
 
-### AI / Machine Learning
+</details>
+
+<details>
+<summary><b>Private Projects — AI / Machine Learning</b></summary>
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
@@ -26,7 +51,10 @@ Developer | Paris, France
 | nlp-Pipeline | NLP pipeline — HuggingFace Transformers, spaCy, NER, embeddings | `Python` |
 | data-Forge | Data engineering toolkit — Polars, Spark, dbt, Delta Lake | `Python` |
 
-### Web / Full-stack
+</details>
+
+<details>
+<summary><b>Private Projects — Web / Full-stack</b></summary>
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
@@ -35,13 +63,7 @@ Developer | Paris, France
 | smgbl-candidature / smgbl-admin / smgbl-api | Recruitment platform (frontend, admin, API) | `TypeScript` |
 | sef-escrime-frontend / sef-escrime-api | Fencing club platform | `TypeScript` `PHP` |
 
-### Tools & Experiments
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [coastwatch](https://github.com/nicovlr/coastwatch) | CLI tool to monitor beach conditions and surf reports | `Python` |
-| [vibe-brainrot](https://github.com/nicovlr/vibe-brainrot) | Fork of Mistral Vibe with a dino runner game — playable AI experiment | `Python` `Nix` `Shell` |
-| [cv](https://github.com/nicovlr/cv) | Personal CV / portfolio | — |
+</details>
 
 ---
 
