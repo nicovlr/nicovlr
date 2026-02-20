@@ -10,22 +10,17 @@ Developer | Paris, France
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [visionos-travel-experience](https://github.com/nicovlr/visionos-travel-experience) | Spatial computing prototype for Apple Vision Pro — immersive 3D globe, spatial gestures, mixed immersion | `Swift` · `SwiftUI` · `RealityKit` · `visionOS` |
-| [cross-platform-ui-components](https://github.com/nicovlr/cross-platform-ui-components) | Reusable UI components across Swift, Objective-C, and C++ — layout engine, color math, UIKit bridges | `Swift` · `Objective-C` · `C++` · `SwiftUI` · `UIKit` |
-| [ios-native-apps](https://github.com/nicovlr/ios-native-apps) | Native iOS recipe app — SwiftData persistence, custom design system, async networking | `Swift` · `SwiftUI` · `SwiftData` |
+| [visionos-travel-experience](https://github.com/nicovlr/visionos-travel-experience) | Spatial computing prototype for Apple Vision Pro — immersive 3D globe, spatial gestures, mixed immersion | `Swift` `SwiftUI` `RealityKit` `visionOS` |
+| [cross-platform-ui-components](https://github.com/nicovlr/cross-platform-ui-components) | Reusable UI components across Apple platforms — layout engine, color math, UIKit bridges | `Swift` `Objective-C` `C++` `SwiftUI` `UIKit` |
+| [ios-native-apps](https://github.com/nicovlr/ios-native-apps) | Native iOS recipe app — SwiftData persistence, custom design system, async networking | `Swift` `SwiftUI` `SwiftData` |
 
-### Other Projects
+### Tools & Experiments
 
-<!-- PROJECTS:START -->
-| Projet | Description | Stack |
-|:-------|:------------|:------|
-| [coastwatch](https://github.com/nicovlr/coastwatch) | CLI Python pour monitorer les conditions des plage... | `Python` |
-| [vibe-brainrot](https://github.com/nicovlr/vibe-brainrot) | Fork of Mistral Vibe with a dino runner game playa... | `Python` · `Nix` · `Shell` |
-| [ios-native-apps](https://github.com/nicovlr/ios-native-apps) | Native iOS recipe app — SwiftUI, SwiftData, async/... | `Swift` |
-| [cross-platform-ui-components](https://github.com/nicovlr/cross-platform-ui-components) | Reusable UI components for Apple platforms — Swift... | `Swift` · `C++` · `Objective-C` |
-| [visionos-travel-experience](https://github.com/nicovlr/visionos-travel-experience) | Spatial computing prototype for Apple Vision Pro —... | `Swift` |
-| [cv](https://github.com/nicovlr/cv) | CV Nicolas Valerino | — |
-<!-- PROJECTS:END -->
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| [coastwatch](https://github.com/nicovlr/coastwatch) | CLI tool to monitor beach conditions and surf reports | `Python` |
+| [vibe-brainrot](https://github.com/nicovlr/vibe-brainrot) | Fork of Mistral Vibe with a dino runner game — playable AI experiment | `Python` `Nix` `Shell` |
+| [cv](https://github.com/nicovlr/cv) | Personal CV / portfolio | — |
 
 ---
 
