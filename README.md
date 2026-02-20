@@ -19,12 +19,12 @@ Developer | Paris, France
 <!-- PROJECTS:START -->
 | Projet | Description | Stack |
 |:-------|:------------|:------|
+| [coastwatch](https://github.com/nicovlr/coastwatch) | CLI Python pour monitorer les conditions des plage... | `Python` |
 | [vibe-brainrot](https://github.com/nicovlr/vibe-brainrot) | Fork of Mistral Vibe with a dino runner game playa... | `Python` · `Nix` · `Shell` |
 | [ios-native-apps](https://github.com/nicovlr/ios-native-apps) | Native iOS recipe app — SwiftUI, SwiftData, async/... | `Swift` |
 | [cross-platform-ui-components](https://github.com/nicovlr/cross-platform-ui-components) | Reusable UI components for Apple platforms — Swift... | `Swift` · `C++` · `Objective-C` |
 | [visionos-travel-experience](https://github.com/nicovlr/visionos-travel-experience) | Spatial computing prototype for Apple Vision Pro —... | `Swift` |
 | [cv](https://github.com/nicovlr/cv) | CV Nicolas Valerino | — |
-| [repotalk](https://github.com/nicovlr/repotalk) | 🎙️ Talk to any codebase with AI voice — Mistral + ... | `HTML` · `Python` |
 <!-- PROJECTS:END -->
 
 ---
